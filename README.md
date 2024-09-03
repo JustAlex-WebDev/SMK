@@ -1,24 +1,17 @@
-# SMK LTD
+# SMK-LTD
 
-## Company Overview
+## About
 
-SMK is a leading scaffolding and construction services company based in Sofia, Bulgaria. With over 15 years of experience, we specialize in providing high-quality scaffolding solutions and office containers for various construction and industrial projects.
+Welcome to **SMK-LTD**, a premier provider of scaffolding and construction services based in Sofia, Bulgaria. With over 15 years of expertise, we specialize in designing, renting, installing, and dismantling high-quality scaffolding systems. We also offer sales and installation of office containers. Our extensive experience and high-grade equipment make us a trusted partner for construction firms throughout Bulgaria.
 
 ## Services
 
-- **Scaffolding Design**: Custom scaffolding designs tailored to project requirements.
-- **Scaffolding Rental**: High-quality scaffolding systems available for rent.
-- **Scaffolding Installation and Dismantling**: Professional services for the assembly and disassembly of scaffolding.
-- **Scaffolding Sales**: Sales of premium scaffolding systems from top German manufacturers.
-- **Office Containers**: Sales and installation of office containers for diverse uses.
+- **Scaffolding Design**: Custom scaffolding solutions tailored to meet the specific requirements of your project.
+- **Scaffolding Rental**: A comprehensive range of scaffolding systems available for rent.
+- **Scaffolding Installation & Dismantling**: Professional services for the setup and removal of scaffolding.
+- **Scaffolding Sales**: Premium scaffolding systems from top German manufacturers.
+- **Office Containers**: Sales and installation of versatile office containers.
 
-## Expertise
+## [Live Demo](# "Live Demo")
 
-- **Extensive Inventory**: Over 25,000 m² of premium frame scaffolding from leading German brands like Layher, Rux, and Altrad.
-- **Custom Solutions**: We offer bespoke scaffolding solutions and project planning to meet specific client needs.
-
-## Memberships and Partnerships
-
-- **Bulgarian Scaffolding Association**: Proud member of the Bulgarian Scaffolding Association.
-- **International Partnerships**: Long-term partnerships with prominent German manufacturers in the scaffolding industry.
-
+Explore our services and solutions through our live demo. For detailed information and inquiries, please visit our website at [Your Website URL].
